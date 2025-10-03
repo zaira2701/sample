@@ -1,2 +1,2 @@
-# Sample
+# sample
 Hello World
